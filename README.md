@@ -22,6 +22,9 @@ https://showlab.github.io/Show-1/
 
 ## Output
 
+prompt = "A burning lamborghini driving on rainbow."
+negative_prompt = "low resolution, blur"
+
 #### Step 1 `showlab/show-1-base-0.0` (.GIF)
 ![A burning lamborghini driving on rainbow _base](https://github.com/camenduru/Show-1-colab/assets/54370274/591b4041-cf26-42ee-bae4-258495b79f80)
 
