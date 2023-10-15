@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Show-1-colab/blob/main/Show_1_steps_colab.ipynb) | Show_1_steps_colab (Colab Pro High-RAM 😐)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Show-1-colab/blob/main/Show_1_steps_colab.ipynb) | Show_1_steps_colab (Colab Pro High-RAM 😐 T4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Show-1-colab/blob/main/Show_1_colab.ipynb) | Show_1_colab (Colab Pro 😭)
 
 ## Main Repo
