@@ -2,14 +2,15 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-# 🚦 WIP 🚦
-
 ## 🦒 Colab
 
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Show-1-colab/blob/main/Show_1_steps_colab.ipynb) | Show_1_steps_colab (Colab Pro High-RAM 😐 T4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Show-1-colab/blob/main/Show_1_colab.ipynb) | Show_1_colab (Colab Pro 😭)
+
+## 🦆 Kaggle
+https://kaggle.com/camenduru/show-1 Show_1_kaggle (Free T4)
 
 ## Main Repo
 https://github.com/showlab/Show-1
