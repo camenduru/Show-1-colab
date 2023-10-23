@@ -10,7 +10,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Show-1-colab/blob/main/Show_1_colab.ipynb) | Show_1_colab (Colab Pro 😭)
 
 ## 🦆 Kaggle
-https://kaggle.com/camenduru/show-1 Show_1_kaggle (Free T4)
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://colab.research.google.com/github/camenduru/Show-1-colab/blob/main/Show_1_colab.ipynb) | Show_1_kaggle (Free T4)
+
 
 ## Main Repo
 https://github.com/showlab/Show-1
